@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>デプロイのテストです！</p>
       </header>
     </div>
   );
