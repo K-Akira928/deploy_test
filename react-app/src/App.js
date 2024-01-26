@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { PrimaryButton } from './components/button/PrimaryButton';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>デプロイのテストです！</p>
+        <PrimaryButton />
       </header>
     </div>
   );
